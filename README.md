@@ -1,5 +1,5 @@
-# C#-Coding-Test-Fibonacci
-Example C# coding test that requires the candidate to write a method that returns the n element in the Fibonacci sequence.
+# C#-CodeScreen-Fibonacci
+Example CodeScreen C# test that requires the candidate to write a method that returns the n element in the Fibonacci sequence.
 
 The class to write this method in is src/FibonacciCalculator.cs.
 
