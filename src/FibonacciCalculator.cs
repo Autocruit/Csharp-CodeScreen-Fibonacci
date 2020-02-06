@@ -1,5 +1,3 @@
-using System;
-
 namespace CodeScreen.Assessments.Fibonacci
 {
     class FibonacciCalculator
