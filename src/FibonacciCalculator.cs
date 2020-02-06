@@ -1,6 +1,6 @@
 using System;
 
-namespace Csharp_Coding_Test_Fibonacci
+namespace CodeScreen.Assessments.Fibonacci
 {
     class FibonacciCalculator
     {
